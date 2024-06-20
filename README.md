@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Mahmut Can Yazlak</h1>
 <h3 align="center">A passionate Mobile Developer From Turkiye</h3>
 
-- 🔭 I’m currently working on **React Native**
+- 🔭 I’m currently working on **React Native** and **Flutter**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **canmahmutyazlak@gmail.com**
 
